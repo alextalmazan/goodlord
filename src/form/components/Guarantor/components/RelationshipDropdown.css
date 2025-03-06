@@ -1,0 +1,13 @@
+.relationship-dropdown-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    justify-content: flex-start;
+    max-width: 30rem;
+    align-items: start;
+}
+.guarantor-label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}

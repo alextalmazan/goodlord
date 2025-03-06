@@ -1,0 +1,22 @@
+.form-field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    justify-content: flex-start;
+    max-width: 30rem;
+    align-items: start;
+}
+
+.form-field label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-field input {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 14px;
+    width: 100%;
+}

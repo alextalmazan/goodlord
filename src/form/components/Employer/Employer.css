@@ -1,0 +1,15 @@
+.date-container {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 1rem;
+}
+
+.date-container .form-field input {
+    width: 13.85rem;
+}
+
+.feedback-field {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 0;
+}
